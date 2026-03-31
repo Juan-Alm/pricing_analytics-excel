@@ -1,0 +1,17 @@
+region_id,country,region,city,market_type
+R001,New Zealand,Auckland,Auckland,developed
+R002,New Zealand,Wellington,Wellington,developed
+R003,New Zealand,Canterbury,Christchurch,developed
+R004,New Zealand,Waikato,Hamilton,developed
+R005,New Zealand,Bay of Plenty,Tauranga,developed
+R006,New Zealand,Otago,Dunedin,developed
+R007,New Zealand,Manawatu-Whanganui,Palmerston North,developed
+R008,New Zealand,Hawke's Bay,Napier-Hastings,developed
+R009,New Zealand,Taranaki,New Plymouth,developed
+R010,New Zealand,Tasman,Richmond,emerging
+R011,New Zealand,West Coast,Greymouth,emerging
+R012,New Zealand,Southland,Invercargill,emerging
+R013,New Zealand,Nelson,Nelson,emerging
+R014,New Zealand,Marlborough,Blenheim,emerging
+R015,New Zealand,Northland,Whangarei,emerging
+R016,New Zealand,Gisborne,Gisborne,emerging

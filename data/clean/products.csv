@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,brand,base_price,cost
+1,GoldenHarvest Orange Juice,Beverages,Juice,GoldenHarvest,9.34,6.16
+2,GoldenHarvest Pork Chops,Meat,Pork,GoldenHarvest,9.72,5.5
+3,GreenValley Potato Chips,Snacks,Chips,GreenValley,19.65,12.76
+4,FreshFarm Spinach,Produce,Vegetables,FreshFarm,5.3,2.71
+5,UrbanEats White Rice,Pantry,Rice,UrbanEats,11.96,9.07
+6,ValueMart Black Tea,Beverages,Tea,ValueMart,4.79,3.09
+7,DailyChoice Almonds,Snacks,Nuts,DailyChoice,16.28,10.75
+8,GreenValley White Bread,Bakery,Bread,GreenValley,9.38,6.29
+9,UrbanEats Black Tea,Beverages,Tea,UrbanEats,18.15,12.03
+10,GoldenHarvest Almonds,Snacks,Nuts,GoldenHarvest,4.27,2.93
+11,PureFoods Fruit Yogurt,Dairy,Yogurt,PureFoods,7.57,4.11
+12,ValueMart Cheddar,Dairy,Cheese,ValueMart,19.54,10.1
+13,DailyChoice Vanilla Ice Cream,Frozen,Ice Cream,DailyChoice,16.48,11.64
+14,GreenValley Wholegrain Bread,Bakery,Bread,GreenValley,7.9,6.26
+15,FreshFarm Vanilla Ice Cream,Frozen,Ice Cream,FreshFarm,2.9,1.86
+16,PureFoods Muffin,Bakery,Pastries,PureFoods,3.2,2.13
+17,GoldenHarvest Pork Chops,Meat,Pork,GoldenHarvest,3.35,1.84
+18,NatureBest Spinach,Produce,Vegetables,NatureBest,16.55,12.72
+19,GoldenHarvest Frozen Pizza,Frozen,Frozen Meals,GoldenHarvest,9.36,5.52
+20,FreshFarm Carrot,Produce,Vegetables,FreshFarm,13.18,7.9
+21,GreenValley Frozen Pizza,Frozen,Frozen Meals,GreenValley,7.75,5.48
+22,ValueMart Almond Milk,Dairy,Milk,ValueMart,16.29,12.97
+23,NatureBest Apple Juice,Beverages,Juice,NatureBest,1.94,1.53
+24,DailyChoice Frozen Pizza,Frozen,Frozen Meals,DailyChoice,13.61,9.85
+25,GoldenHarvest Parmesan,Dairy,Cheese,GoldenHarvest,10.38,7.34
+26,GoldenHarvest Bacon,Meat,Pork,GoldenHarvest,18.13,9.53
+27,FreshFarm Potato,Produce,Vegetables,FreshFarm,13.96,9.51
+28,UrbanEats Green Tea,Beverages,Tea,UrbanEats,16.39,9.54
+29,FreshFarm Brown Rice,Pantry,Rice,FreshFarm,9.26,6.9
+30,GoldenHarvest Peanuts,Snacks,Nuts,GoldenHarvest,14.28,8.79
+31,GreenValley Lemon Soda,Beverages,Soft Drinks,GreenValley,12.98,10.34
+32,FreshFarm Ground Coffee,Beverages,Coffee,FreshFarm,6.3,4.76
+33,NatureBest Croissant,Bakery,Pastries,NatureBest,16.43,9.57
+34,DailyChoice White Rice,Pantry,Rice,DailyChoice,15.16,9.38
+35,DailyChoice Canned Beans,Pantry,Canned Goods,DailyChoice,2.26,1.21
+36,DailyChoice Beef Steak,Meat,Beef,DailyChoice,18.75,11.03
+37,GreenValley Orange Juice,Beverages,Juice,GreenValley,7.55,4.08
+38,PureFoods Whole Milk,Dairy,Milk,PureFoods,19.39,15.47
+39,PureFoods Muffin,Bakery,Pastries,PureFoods,15.28,11.88
+40,UrbanEats Ground Coffee,Beverages,Coffee,UrbanEats,8.53,6.25
+41,UrbanEats Potato,Produce,Vegetables,UrbanEats,14.9,10.84
+42,NatureBest Ground Beef,Meat,Beef,NatureBest,9.32,4.77
+43,NatureBest Vanilla Ice Cream,Frozen,Ice Cream,NatureBest,8.28,6.51
+44,DailyChoice Potato,Produce,Vegetables,DailyChoice,8.88,5.42
+45,DailyChoice Tortilla Chips,Snacks,Chips,DailyChoice,18.5,14.7
+46,FreshFarm Frozen Lasagna,Frozen,Frozen Meals,FreshFarm,8.74,5.37
+47,NatureBest Kiwi,Produce,Fruits,NatureBest,7.98,6.25
+48,GreenValley Cola,Beverages,Soft Drinks,GreenValley,15.4,11.45
+49,GreenValley Almonds,Snacks,Nuts,GreenValley,9.33,6.59
+50,PureFoods Orange Juice,Beverages,Juice,PureFoods,11.33,6.34

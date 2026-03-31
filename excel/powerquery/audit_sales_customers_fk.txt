@@ -1,0 +1,5 @@
+let
+    Source = Table.NestedJoin(fact_sales_snapshot, {"customer_id_temp"}, dim_customers, {"customer_id"}, "dim_customers", JoinKind.LeftAnti),
+    #"Added Custom" = Table.AddColumn(Source, "rejection_reason", each "invalid customer_id")
+in
+    #"Added Custom"
