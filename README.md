@@ -11,14 +11,14 @@ A end-to-end pricing analytics project built on simulated New Zealand business r
 
 ## Screenshots
 
+### Power BI pricing dashboard
+![Pricing dashboard](screenshots/pricing_dashboard.png)
+
 ### Pivot tables — total revenue by market type
 ![Pivot table 1](screenshots/pivot_table_1.jpg)
 
 ### Pivot tables — margin and revenue analysis
 ![Pivot table 2](screenshots/pivot_table_2.jpg)
-
-### Power BI pricing dashboard
-![Pricing dashboard](screenshots/pricing_dashboard.jpg)
 
 ---
 
